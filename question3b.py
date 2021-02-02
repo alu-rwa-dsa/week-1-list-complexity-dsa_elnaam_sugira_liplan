@@ -4,6 +4,6 @@ def ToLower(word):
     return word.lower()
 
 
-# word = 'Three'
+# word = 'Four'
 
 # print(word.lower())
