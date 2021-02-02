@@ -1,9 +1,10 @@
 
 
+
 def ToLower(word):
     return word.lower()
 
 
-# word = 'Three'
+wrd = 'Three'
+print(ToLower(wrd))
 
-# print(word.lower())
