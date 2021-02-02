@@ -1,3 +1,4 @@
+elnaam_work
 
 
 def FindMax(l):
@@ -7,14 +8,8 @@ def FindMax(l):
             maxVal = l[i]
     return maxVal
 
-
-# ls = [1, 3, 44, 5, 2]
-
-# maxVal = ls[0]
-
-# for i in range(0, len(ls)):
-#     if maxVal < ls[i]:
-#         maxVal = ls[i]
+ls = [1, 3, 44, 5, 2]
+FindMax(ls)
 
 
-# print(maxVal)
+
